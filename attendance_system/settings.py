@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 """
 
 import os
-#import django_heroku
+import dj_database_url
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -79,8 +79,12 @@ WSGI_APPLICATION = 'attendance_system.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'd480c35uie1lcn',
+        'USER':'molhxcilmqbztz',
+        'PASSWORD':'f6578d92c4c1e9f8d548a7865394154e85be370d8016ba9f1822c0e420fbdc9d',
+        'HOST':'ec2-34-237-236-32.compute-1.amazonaws.com',
+        'PORT':'5432'
     }
 }
 
