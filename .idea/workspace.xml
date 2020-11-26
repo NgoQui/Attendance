@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="558868c1-5cb6-4f5c-8780-a89ea4c4baa4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="attendance_system" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/login/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="3110" column="28" selection-start-line="3110" selection-start-column="28" selection-end-line="3110" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>div</find>
+      <find>first</find>
+      <find>second</find>
+      <find>compfirstyear.html</find>
+      <find>third</find>
+      <find>imwrcivile</find>
+      <find>civilfyenroll</find>
+      <find>ITfirstyearEnroll</find>
+      <find>mechsyenroll</find>
+      <find>form</find>
+      <find>0</find>
+      <find>video</find>
+      <find>itfytra</find>
+      <find>animation</find>
+      <find>bubbles</find>
+      <find>mechtytra</find>
+      <find>bubbl</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>second</replace>
+      <replace>third</replace>
+      <replace>compyear.html</replace>
+      <replace>fourth</replace>
+      <replace>easy</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/firstyear/firtyearenroll/civilfirstyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/fourthyear/fourthyearenroll/civilfourthyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/fourthyear/fourthyearenroll/compfourthyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/fourthyear/fourthyearenroll/eandtcfourthyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/fourthyear/fourthyearenroll/electfourthyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/fourthyear/fourthyearenroll/itfourthyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/fourthyear/fourthyearenroll/mechfourthyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/secondyearenroll/civilsecondyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/secondyearenroll/eandtcsecondyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/secondyearenroll/compsecondyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/secondyearenroll/electsecondyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/secondyearenroll/itsecondyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/secondyearenroll/mechsecondyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/thirdyear/thirdyearenroll/eandtcthirdyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/thirdyear/thirdyearenroll/compthirdyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/thirdyear/thirdyearenroll/civilthirdyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/thirdyear/thirdyearenroll/electthirdyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/thirdyear/thirdyearenroll/itthirdyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/thirdyear/thirdyearenroll/mechthirdyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/firstyear/civilyear.html" />
+        <option value="$PROJECT_DIR$/templates/firstyear/compyear.html" />
+        <option value="$PROJECT_DIR$/templates/firstyear/eandtcyear.html" />
+        <option value="$PROJECT_DIR$/templates/firstyear/electyear.html" />
+        <option value="$PROJECT_DIR$/templates/firstyear/ityear.html" />
+        <option value="$PROJECT_DIR$/templates/firstyear/mechyear.html" />
+        <option value="$PROJECT_DIR$/templates/fourthyear/civilyear.html" />
+        <option value="$PROJECT_DIR$/templates/fourthyear/compyear.html" />
+        <option value="$PROJECT_DIR$/templates/fourthyear/eandtcyear.html" />
+        <option value="$PROJECT_DIR$/templates/fourthyear/electyear.html" />
+        <option value="$PROJECT_DIR$/templates/fourthyear/ityear.html" />
+        <option value="$PROJECT_DIR$/templates/fourthyear/mechyear.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/civilyear.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/compyear.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/eandtcyear.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/electyear.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/ityear.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/mechyear.html" />
+        <option value="$PROJECT_DIR$/templates/thirdyear/civilyear.html" />
+        <option value="$PROJECT_DIR$/templates/thirdyear/compyear.html" />
+        <option value="$PROJECT_DIR$/templates/thirdyear/eandtcyear.html" />
+        <option value="$PROJECT_DIR$/templates/thirdyear/electyear.html" />
+        <option value="$PROJECT_DIR$/templates/thirdyear/ityear.html" />
+        <option value="$PROJECT_DIR$/templates/thirdyear/mechyear.html" />
+        <option value="$PROJECT_DIR$/templates/save.html" />
+        <option value="$PROJECT_DIR$/templates/firstyear/firtyearenroll/compfirstyearenroll.html" />
+        <option value="$PROJECT_DIR$/templates/secondyear/secondyearenroll/elect/TrainingImageLabel/Trainner.yml" />
+        <option value="$PROJECT_DIR$/static_cdn/style.css" />
+        <option value="$PROJECT_DIR$/templates/signup.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/attendance_system/urls.py" />
+        <option value="$PROJECT_DIR$/login/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="713" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="attendance_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="attendance_system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="attendance_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="attendance_system" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance_system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="attendance_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="attendance_system" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\personal\attendance_system\templates\firstyear\firtyearenroll\mech" />
+      <recent name="D:\personal\attendance_system\templates\firstyear\firtyearenroll\civil" />
+      <recent name="D:\personal\attendance_system\templates\firstyear\firtyearenroll\comp" />
+      <recent name="D:\personal\attendance_system\templates\firstyear\firtyearenroll\eandtc" />
+      <recent name="D:\personal\attendance_system\templates\firstyear\firtyearenroll\elect" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\personal\attendance_system" />
+      <recent name="D:\personal\attendance_system\templates\firstyear" />
+      <recent name="D:\BE PROJECT\attendance_system" />
+      <recent name="D:\BE PROJECT\attendance_system\attendance_system\static" />
+      <recent name="D:\BE PROJECT\attendance_system\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="attendance_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="558868c1-5cb6-4f5c-8780-a89ea4c4baa4" name="Default" comment="" />
+      <created>1551148574138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551148574138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7867495" visible="true" weight="0.27232143" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297546" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.39876354" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32668713" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297546" />
+      <window_info id="Structure" order="1" sideWeight="0.20045558" side_tool="true" weight="0.27455357" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" visible="true" weight="0.252322" />
+      <window_info id="Favorites" order="2" sideWeight="0.21325052" side_tool="true" visible="true" weight="0.27232143" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27455357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" visible="true" weight="0.252322" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.39876354" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32921174" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Attendance/Attendance_2018-12-14_13-56-57.csv" />
+    <entry file="file://$PROJECT_DIR$/Attendance/Attendance_2018-12-14_13-57-37.csv" />
+    <entry file="file://$PROJECT_DIR$/Attendance/Attendance_2018-12-14_13-58-31.csv" />
+    <entry file="file://$PROJECT_DIR$/templates/fail.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/comp/StudentDetails/StudentDetails.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/eandtcfirstyearenroll.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/civilfirstyearenroll.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/electfirstyearenroll.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/itfirstyearenroll.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/mechfirstyearenroll.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/compfirstyearenroll.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/Attendance/Attendance_IT_FY_2019-04-03_15-35-03.csv" />
+    <entry file="file://$PROJECT_DIR$/templates/comp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/thirdyear/thirdyearenroll/comp/Attendance/Attendance_Comp_TY_2019-04-05_00-34-23.csv" />
+    <entry file="file://$PROJECT_DIR$/templates/thirdyear/thirdyearenroll/it/StudentDetails/StudentDetails.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/thirdyear/thirdyearenroll/it/Attendance/Attendance_IT_TY_2019-04-05_00-36-12.csv" />
+    <entry file="file://$PROJECT_DIR$/templates/thirdyear/thirdyearenroll/comp/StudentDetails/StudentDetails.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/civil/TrainingImageLabel/Trainner.yml">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/secondyear/secondyearenroll/elect/TrainingImageLabel/Trainner.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static_cdn/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="364" column="17" selection-start-line="364" selection-start-column="10" selection-end-line="364" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/Attendance/Attendance_IT_FY_2019-04-05_11-50-46.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/fourthyear/fourthyearenroll/comp/Attendance/Attendance_Comp_lY_2019-04-05_13-05-44.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/fourthyear/fourthyearenroll/comp/TrainingImage/ akanksha.1.1.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.1.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.3.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.4.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.5.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.6.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.12.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.18.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.17.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.15.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.14.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.13.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.11.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.9.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.8.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImage/ganesh.13.7.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/it/TrainingImageLabel/Trainner.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/comp/TrainingImage/ kalpesh.11.2.jpg" />
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/comp/TrainingImage/ kalpesh.11.1.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="534" column="21" selection-start-line="534" selection-start-column="21" selection-end-line="534" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance_system/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance_system/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/comp/Attendance/Attendance_Comp_FY_2019-05-29_09-49-59.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/firstyear/firtyearenroll/comp/TrainingImageLabel/Trainner.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="28437" selection-start-line="28437" selection-end-line="28437" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="3110" column="28" selection-start-line="3110" selection-start-column="28" selection-end-line="3110" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
